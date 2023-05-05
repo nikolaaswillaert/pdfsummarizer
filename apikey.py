@@ -1,1 +1,1 @@
-apikey = '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'
+apikey = 'INSERTYOURAPIKEYHERE'
